@@ -1,0 +1,75 @@
+.card-deck{
+    display: flex;
+
+    
+}
+
+.card-block1{
+    margin-left: 2%;
+}
+
+.card-block2{
+    margin-left: 10%;
+}
+
+.card-block3{
+    margin-left: 15%;
+}
+
+.card-block4{
+    margin-left: 2%;
+}
+
+.card-block5{
+    margin-left: 10%;
+}
+
+.card-block6{
+    margin-left: 15%;
+}
+
+
+.card-img-top {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.nav__body-logo2{
+    margin-left: 30%;
+}
+
+.btn-group{
+    margin-left: 30%;
+}
+
+.header__inicio-redes{
+    margin-left: 90%;
+    margin-top: -7%;
+}
+
+#footer{
+    .footer__links{
+        margin-left: 40%;
+        margin-top: -8%;
+        
+    }
+
+    .footer__inicio-redes{
+        margin-left: 90%;
+        margin-top: -12%;
+    }
+
+    .footer__logo-pictureimg{
+        margin-bottom: -5%;
+    }
+    
+}
+
+@import "sass/productos";
+@import "sass/info";
+@import "sass/contacto";
+@import "sass/giftshop";
+
+
+
